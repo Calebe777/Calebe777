@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=A020F0&size=35&center=true&vCenter=true&width=900&lines=HELLO,+WORLD!;My+name+is+Calebe+Paes;Passionate+about+technology;Always+building+and+learning+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?color=A020F0&size=35&center=true&vCenter=true&width=900&lines=HELLO,+WORLD!;My+name+is+Calebe+Paes;Passionate+about+technology;Always+building+and+learning+" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Calebe777&bg
 
 ---
 
-## 🚀 Main Languages & Frameworks
+##  Main Languages & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -32,19 +32,19 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Calebe777&bg
 
 ---
 
-## 🎨 Frontend & Styling
+##  Frontend & Styling
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-## 🗄 Databases
+##  Databases
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
 
-## 🛠 Tools & Systems
+##  Tools & Systems
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![PhpStorm](https://img.shields.io/badge/-PhpStorm-000000?style=for-the-badge&logo=phpstorm&logoColor=white)
